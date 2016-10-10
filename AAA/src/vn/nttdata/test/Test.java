@@ -8,5 +8,8 @@ package vn.nttdata.test;
  *
  */
 public class Test {
-
+	private String test = "1";
+	public static void main(String[] args) {
+		
+	}
 }
