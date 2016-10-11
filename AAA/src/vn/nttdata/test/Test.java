@@ -8,7 +8,7 @@ package vn.nttdata.test;
  *
  */
 public class Test {
-	private static String test = "2";
+	private static String test = "1";
 	public static void main(String[] args) {
 		System.out.println(test);
 	}
